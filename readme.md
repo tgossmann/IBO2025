@@ -3,4 +3,4 @@
 ## Training 3. Runde
 
 ### Vorbereitung
-- [Trainingsaufgaben](Klausur_Bioinfo2025_Vorbereitung.pdf)
+- [Info und Trainingsaufgaben](Klausur_Bioinfo2025_Vorbereitung.pdf)

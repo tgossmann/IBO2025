@@ -4,3 +4,7 @@
 
 ### Vorbereitung
 - [Info und Trainingsaufgaben](Klausur_Bioinfo2025_Vorbereitung.pdf)
+
+### Klausur
+
+- [Klausur](KlausurBioinfo2025_3Runde.pdf)

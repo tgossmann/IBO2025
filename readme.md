@@ -19,5 +19,7 @@
 ### Klausur
 
 - Paper: [Beiter_et al., 2022](Beiter_2022.pdf)
-- Link: http://165.22.7.10:3838/seurat_viewer/seurat_viewer_4.Rmd
-- Link: https://www.ebi.ac.uk/jdispatcher/msa/muscle
+- Link Server: http://165.22.7.10:3838/seurat_viewer/seurat_viewer_4.Rmd
+- Link Muscle: https://www.ebi.ac.uk/jdispatcher/msa/muscle
+- Link NCBI: https://www.ncbi.nlm.nih.gov
+- MutationTaster: https://www.mutationtaster.org/

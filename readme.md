@@ -11,5 +11,11 @@
 
 ## Training 4. Runde
 
+### Vorbereitung
+
 - [Crashkurs](CrashCourse.pdf)
 - https://www.charactercountonline.com/
+
+### Klausur
+
+- [Beiter_2022](Beiter_2022.pdf)

@@ -18,5 +18,6 @@
 
 ### Klausur
 
-- [Beiter_et al., 2022](Beiter_2022.pdf)
-- http://165.22.7.10:3838/seurat_viewer/seurat_viewer_4.Rmd
+- Paper: [Beiter_et al., 2022](Beiter_2022.pdf)
+- Link: http://165.22.7.10:3838/seurat_viewer/seurat_viewer_4.Rmd
+- Link: https://www.ebi.ac.uk/jdispatcher/msa/muscle
